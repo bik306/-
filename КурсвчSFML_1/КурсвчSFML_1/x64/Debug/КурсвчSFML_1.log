@@ -1,0 +1,114 @@
+﻿  main.cpp
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(15,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(320,29): warning C4474: "swprintf_s" : для строки формата передано слишком много аргументов
+      C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(320,29):
+      заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+  
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(323,29): warning C4474: "swprintf_s" : для строки формата передано слишком много аргументов
+      C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(323,29):
+      заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+  
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(363,29): warning C4474: "swprintf_s" : для строки формата передано слишком много аргументов
+      C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(363,29):
+      заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+  
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(366,29): warning C4474: "swprintf_s" : для строки формата передано слишком много аргументов
+      C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(366,29):
+      заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+  
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(472,65): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(472,65): warning C4244:         with
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(472,65): warning C4244:         [
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(472,65): warning C4244:             T=int
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(472,65): warning C4244:         ]
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(472,65): warning C4244:         and
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(472,65): warning C4244:         [
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(472,65): warning C4244:             T=float
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(472,65): warning C4244:         ]
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(472,53): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(472,53): warning C4244:         with
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(472,53): warning C4244:         [
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(472,53): warning C4244:             T=int
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(472,53): warning C4244:         ]
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(472,53): warning C4244:         and
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(472,53): warning C4244:         [
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(472,53): warning C4244:             T=float
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(472,53): warning C4244:         ]
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(477,65): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(477,65): warning C4244:         with
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(477,65): warning C4244:         [
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(477,65): warning C4244:             T=int
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(477,65): warning C4244:         ]
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(477,65): warning C4244:         and
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(477,65): warning C4244:         [
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(477,65): warning C4244:             T=float
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(477,65): warning C4244:         ]
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(477,53): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(477,53): warning C4244:         with
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(477,53): warning C4244:         [
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(477,53): warning C4244:             T=int
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(477,53): warning C4244:         ]
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(477,53): warning C4244:         and
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(477,53): warning C4244:         [
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(477,53): warning C4244:             T=float
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(477,53): warning C4244:         ]
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(483,20): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(484,20): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(486,50): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(486,50): warning C4244:         with
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(486,50): warning C4244:         [
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(486,50): warning C4244:             T=int
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(486,50): warning C4244:         ]
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(486,50): warning C4244:         and
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(486,50): warning C4244:         [
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(486,50): warning C4244:             T=float
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(486,50): warning C4244:         ]
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(486,38): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(486,38): warning C4244:         with
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(486,38): warning C4244:         [
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(486,38): warning C4244:             T=int
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(486,38): warning C4244:         ]
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(486,38): warning C4244:         and
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(486,38): warning C4244:         [
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(486,38): warning C4244:             T=float
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(486,38): warning C4244:         ]
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(500,64): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(500,64): warning C4244:         with
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(500,64): warning C4244:         [
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(500,64): warning C4244:             T=int
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(500,64): warning C4244:         ]
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(500,64): warning C4244:         and
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(500,64): warning C4244:         [
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(500,64): warning C4244:             T=float
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(500,64): warning C4244:         ]
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(500,52): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(500,52): warning C4244:         with
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(500,52): warning C4244:         [
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(500,52): warning C4244:             T=int
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(500,52): warning C4244:         ]
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(500,52): warning C4244:         and
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(500,52): warning C4244:         [
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(500,52): warning C4244:             T=float
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(500,52): warning C4244:         ]
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(509,64): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(509,64): warning C4244:         with
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(509,64): warning C4244:         [
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(509,64): warning C4244:             T=int
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(509,64): warning C4244:         ]
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(509,64): warning C4244:         and
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(509,64): warning C4244:         [
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(509,64): warning C4244:             T=float
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(509,64): warning C4244:         ]
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(509,52): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(509,52): warning C4244:         with
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(509,52): warning C4244:         [
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(509,52): warning C4244:             T=int
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(509,52): warning C4244:         ]
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(509,52): warning C4244:         and
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(509,52): warning C4244:         [
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(509,52): warning C4244:             T=float
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(509,52): warning C4244:         ]
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(637,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(648,14): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\КурсвчSFML_1\main.cpp(649,15): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+  КурсвчSFML_1.vcxproj -> C:\Users\Вика\Desktop\учеба\4 семестр\курсач\КурсвчSFML_1\x64\Debug\КурсвчSFML_1.exe
